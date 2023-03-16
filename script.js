@@ -76,40 +76,40 @@ function blockColorChange () {
 function saveText () {   
 
   var saveEventText9 = JSON.parse(localStorage.getItem("9AM"));
-  $("#hour-9").val("");
-  $("#hour-9").val(saveEventText9);
+  $("#9").val("");
+  $("#h9").val(saveEventText9);
     
   var saveEventText10 = JSON.parse(localStorage.getItem("10AM"));
-  $("#hour-10").val("");
-  $("#hour-10").val(saveEventText10);
+  $("#10").val("");
+  $("#10").val(saveEventText10);
     
   var saveEventText11 = JSON.parse(localStorage.getItem("11AM"));
-  $("#hour-11").val("");
-  $("#hour-11").val(saveEventText11);
+  $("#11").val("");
+  $("#11").val(saveEventText11);
     
   var saveEventText12 = JSON.parse(localStorage.getItem("12PM"));
-  $("#hour-12").val("");
-  $("#hour-12").val(saveEventText12);
+  $("#12").val("");
+  $("#12").val(saveEventText12);
     
   var saveEventText1 = JSON.parse(localStorage.getItem("1PM"));
-  $("#hour-13").val("");
-  $("#hour-13").val(saveEventText1);
+  $("#13").val("");
+  $("#13").val(saveEventText1);
 
   var saveEventText2 = JSON.parse(localStorage.getItem("2PM"));
-  $("#hour-14").val("");
-  $("#hour-14").val(saveEventText2);
+  $("#14").val("");
+  $("#14").val(saveEventText2);
 
   var saveEventText3 = JSON.parse(localStorage.getItem("3PM"));
-  $("#hour-15").val("");
-  $("#hour-15").val(saveEventText3);
+  $("#h15").val("");
+  $("#15").val(saveEventText3);
 
   var saveEventText4 = JSON.parse(localStorage.getItem("4PM"));
-  $("#hour-16").val("");
-  $("#hour-16").val(saveEventText4);
+  $("#16").val("");
+  $("#16").val(saveEventText4);
 
   var saveEventText5 = JSON.parse(localStorage.getItem("5PM"));
-  $("#hour-17").val("");
-  $("#hour-17").val(saveEventText5);
+  $("#17").val("");
+  $("#17").val(saveEventText5);
 
 };
   // TODO: Add code to display the current date in the header of the page.
