@@ -77,7 +77,7 @@ function saveText () {
 
   var saveEventText9 = JSON.parse(localStorage.getItem("9AM"));
   $("#9").val("");
-  $("#h9").val(saveEventText9);
+  $("#9").val(saveEventText9);
     
   var saveEventText10 = JSON.parse(localStorage.getItem("10AM"));
   $("#10").val("");
