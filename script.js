@@ -47,7 +47,6 @@ function blockColorChange () {
   
   inputEl.each(function () {
     var calendarTime = parseInt($(this).attr("id"));
-    console.log('this is me')
     console.log(calendarTime);
     
     if (currentHour > calendarTime) {
