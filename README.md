@@ -17,7 +17,7 @@ This code creates a daily planner that you can use to save your hourly work even
 If you encounter issues with the code, please report it to the https://github.com/teresagithub17/passwordGenerator/issues.
 
 #### Resources and links:
-1. Github published page: Click [this]() link.
-2. Github repository: 
+1. Github published page: Click [this](https://teresagithub17.github.io/dailyPlanner/) link.
+2. Github repository: https://github.com/teresagithub17/dailyPlanner 
 
 Thank you and Enjoy!
